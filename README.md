@@ -4,4 +4,6 @@
 This is a mod made out of frustration at how low-res the warning decals included with Conformal Decals were. 
 SVGs taken from [this Wikipedia article](https://wikipedia.org/wiki/ISO_7010). 
 
-This mod is public domain.  
+Run convert.bat to convert all SVGs in `/src-svgs/` to 2048*1024 PNGs, with the SVG centered.
+
+The converted flags and the batch file are public domain.
